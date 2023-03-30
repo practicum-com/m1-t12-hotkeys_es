@@ -1,3 +1,3 @@
-# Hotkeys to Efficiently Work With Code
+# Atajos de teclado para trabajar con código de manera eficiente
 
-A programmer spends most of their time writing code. Intellij IDEA allows you to speed up this process. To write code even faster, developers optimize their actions with hotkeys. There are hundreds of such combinations in the Intellij IDEA development environment. In this lesson you'll learn about the most useful ones.
+Un programador o una programadora pasa la mayor parte de su tiempo escribiendo código. Intellij IDEA te permite acelerar este proceso. Para escribir código de una manera aún más rápida, los desarrolladores y las desarrolladoras optimizan sus acciones con atajos de teclado (en inglés, *hotkeys*). Hay cientos de tales combinaciones en el entorno de desarrollo Intellij IDEA. En esta lección, aprenderás acerca de las más útiles.
